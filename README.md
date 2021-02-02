@@ -1,4 +1,4 @@
 # visitorbot
-# created by Al Sayeed.
-# app developed by Shahriar Ahmed.
-# contact : fb.com/ig.frostt
+# Created by Al Sayeed.
+# App developed by Shahriar Ahmed.
+# Contact : fb.com/ig.frostt
